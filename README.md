@@ -4,15 +4,14 @@ A fully functional desktop web browser built using Java Swing.
 This project demonstrates object-oriented programming, file handling, GUI development, and modular software design.
 
 ## 📌 Features
-
-# 🌐 Basic web navigation
-# 🔁 Back & Forward functionality
-# 🏠 Custom homepage support
-# ⭐ Add / Remove Favorites
-# 📜 History tracking
-# 🔐 Simple firewall URL filtering
-# 💾 File-based data persistence
-# 🖥 Desktop GUI using Java Swing
+🌐 Basic web navigation
+🔁 Back & Forward functionality
+🏠 Custom homepage support
+⭐ Add / Remove Favorites
+📜 History tracking
+🔐 Simple firewall URL filtering
+💾 File-based data persistence
+🖥 Desktop GUI using Java Swing
 
 ## 🛠 Technologies Used
 
