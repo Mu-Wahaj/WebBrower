@@ -39,12 +39,9 @@ https://github.com/Mu-Wahaj/WebBrower
 This project helped me practice:
 Object-Oriented Programming
 Separation of Concerns
-
-## thank you 
 GUI Development
 Data Persistence
 Version Control with Git
-
-
-Muhammad Wahaj
-Web Developer | Aspiring IT Engineer
+## Muhammad Wahaj
+# Web Developer |  IT Engineer
+#thank you 
